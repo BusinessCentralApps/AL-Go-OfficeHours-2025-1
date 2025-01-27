@@ -2,6 +2,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "VersioningStrategy": 3,
+  "useProjectDependencies": true,
   "buildModes": [
     "default",
     "nextMajor"
