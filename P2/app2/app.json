@@ -2,7 +2,7 @@
   "id": "1c1c9596-b949-4b97-85dc-43c56b224df3",
   "name": "app2",
   "publisher": "Freddy",
-  "version": "1.0.0.0",
+  "version": "1.0.1.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,7 +15,7 @@
       "id": "4a6a7d4f-bd60-4136-b5d0-11c4711e940f",
       "name": "App1",
       "publisher": "Freddy",
-      "version": "1.0.1.0"     
+      "version": "1.0.2.0"
     }
   ],
   "screenshots": [],
