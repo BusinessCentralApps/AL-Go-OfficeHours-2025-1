@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@v6.2",
-  "xVersioningStrategy": 3,
+  "VersioningStrategy": 3,
   "useProjectDependencies": true,
   "buildModes": [
     "default",
