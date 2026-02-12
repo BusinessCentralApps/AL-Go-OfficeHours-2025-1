@@ -22,5 +22,6 @@
       }
     }
   ],
-  "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0"
+  "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0",
+  "PullRequestTrigger": "pull_request"
 }
